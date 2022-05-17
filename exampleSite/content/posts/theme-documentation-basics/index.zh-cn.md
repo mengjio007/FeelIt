@@ -140,7 +140,7 @@ theme = "FeelIt"
 以下是创建第一篇文章的方法:
 
 ```bash
-hugo new posts/first_post.md
+hugo new post/first_post.md
 ```
 
 通过添加一些示例内容并替换文件开头的标题, 你可以随意编辑文章.
@@ -775,7 +775,7 @@ hugo
 
 # {{< link "https://gohugo.io/content-management/urls#permalinks" "Permalinks 配置" >}}
 [Permalinks]
-  # posts = ":year/:month/:filename"
+  # post = ":year/:month/:filename"
   posts = ":filename"
 
 # {{< link "https://gohugo.io/about/hugo-and-gdpr/" "隐私信息配置" >}}

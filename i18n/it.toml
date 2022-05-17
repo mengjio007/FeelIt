@@ -101,7 +101,7 @@ other = "Per saperne di più"
 other = "Condividi su"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Contenuti"
 
@@ -142,7 +142,7 @@ other = "Indietro"
 
 [home]
 other = "Home"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

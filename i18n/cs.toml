@@ -97,7 +97,7 @@ other = "Zjistit více"
 other = "Sdílet na"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Obsah"
 
@@ -138,7 +138,7 @@ other = "Zpět"
 
 [home]
 other = "Domů"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

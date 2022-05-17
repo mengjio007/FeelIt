@@ -104,7 +104,7 @@ other = "了解更多"
 other = "分享到"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "目录"
 
@@ -143,7 +143,7 @@ other = "返回"
 
 [home]
 other = "主页"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

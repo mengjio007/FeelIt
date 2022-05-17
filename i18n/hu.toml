@@ -97,7 +97,7 @@ other = "Tudj meg többet"
 other = "Megosztás be"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Tartalom"
 
@@ -138,7 +138,7 @@ other = "Kezdőoldal"
 
 [readMore]
 other = "Olvass tovább"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

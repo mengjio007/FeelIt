@@ -98,7 +98,7 @@ other = "Сазнајте више"
 other = "Подели на"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Садржаји"
 
@@ -139,7 +139,7 @@ other = "Назад"
 
 [home]
 other = "Почетна"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

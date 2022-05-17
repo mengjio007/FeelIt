@@ -101,7 +101,7 @@ other = "Aflați mai multe"
 other = "Distribuie pe"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Cuprins"
 
@@ -142,7 +142,7 @@ other = "Înapoi"
 
 [home]
 other = "Acasă"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

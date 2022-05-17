@@ -97,7 +97,7 @@ other = "مطالعه بیشتر"
 other = "اشتراک گذاری در"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "مطالب"
 
@@ -138,7 +138,7 @@ other = "برگرد"
 
 [home]
 other = "خانه"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

@@ -142,7 +142,7 @@ When building the website, you can set a theme by using `--theme` option. Howeve
 Here is the way to create your first post:
 
 ```bash
-hugo new posts/first_post.md
+hugo new post/first_post.md
 ```
 
 Feel free to edit the post file by adding some sample content and replacing the title value in the beginning of the file.
@@ -304,9 +304,9 @@ Please open the code block below to view the complete sample configuration :(far
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
-  # {{< version 0.2.0 >}} Section (all posts) page config
+  # {{< version 0.2.0 >}} Section (all post) page config
   [params.section]
-    # special amount of posts in each section page
+    # special amount of post in each section page
     paginate = 20
     # date format (month and day)
     dateFormat = "01-02"
@@ -315,7 +315,7 @@ Please open the code block below to view the complete sample configuration :(far
 
   # {{< version 0.2.0 >}} List (category or tag) page config
   [params.list]
-    # special amount of posts in each list page
+    # special amount of post in each list page
     paginate = 20
     # date format (month and day)
     dateFormat = "01-02"
@@ -379,10 +379,10 @@ Please open the code block below to view the complete sample configuration :(far
       social = true
       # {{< version 0.2.0 >}} disclaimer (HTML format is supported)
       disclaimer = ""
-    # Home page posts
+    # Home page post
     [params.home.posts]
       enable = true
-      # special amount of posts in each home posts page
+      # special amount of post in each home post page
       paginate = 6
       # {{< version 1.0.1 changed >}} display image-preview
       imagePreview = true
@@ -573,7 +573,7 @@ Please open the code block below to view the complete sample configuration :(far
       [params.page.comment.disqus]
         # {{< version 0.1.1 >}}
         enable = false
-        # Disqus shortname to use Disqus in posts
+        # Disqus shortname to use Disqus in post
         shortname = ""
       # Vssue comment config (https://github.com/meteorlxy/vssue)
       [params.page.comment.vssue]
@@ -774,7 +774,7 @@ Please open the code block below to view the complete sample configuration :(far
 
 # {{< link "https://gohugo.io/content-management/urls#permalinks" "Permalinks config" >}}
 [Permalinks]
-  # posts = ":year/:month/:filename"
+  # post = ":year/:month/:filename"
   posts = ":filename"
 
 # {{< link "https://gohugo.io/about/hugo-and-gdpr/" "Privacy config" >}}

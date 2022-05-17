@@ -100,7 +100,7 @@ other = "Tìm hiểu thêm"
 other = "Chia sẻ trên"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Nội dung"
 
@@ -141,7 +141,7 @@ other = "Quay lại"
 
 [home]
 other = "Trang chủ"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]

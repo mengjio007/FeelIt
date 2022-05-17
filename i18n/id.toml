@@ -97,7 +97,7 @@ other = "Pelajari lebih lanjut"
 other = "Bagikan ke"
 # === partials/plugin/share.html ===
 
-# === posts/single.html ===
+# === post/single.html ===
 [contents]
 other = "Daftar Isi"
 
@@ -141,7 +141,7 @@ other = "Beranda"
 
 [readMore]
 other = "Baca Selengkapnya"
-# === posts/single.html ===
+# === post/single.html ===
 
 # === 404.html ===
 [pageNotFound]
